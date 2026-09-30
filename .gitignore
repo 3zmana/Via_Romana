@@ -12,3 +12,6 @@ src/main/generated/.cache/e646a25c339e0de009e09bd202d29c54614fe197
 /documentation
 /libs
 /.idea
+*.gz
+*.log
+*.xml
